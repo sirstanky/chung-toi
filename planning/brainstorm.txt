@@ -1,0 +1,8 @@
+modes: vs ai, vs player, vs local, vs ai battle, vs player battle, vs player local battle
+
+battle mode is 4x4 and makes random items to collect that help you or harm opponent
+items could include disabling movement in a certain direction for a few turns or preventing a piece from rotating on their turn
+
+income: sell different piece skins
+
+skins: tanks, ufo, coins, traditional, glass bottles (like spin the bottle)
